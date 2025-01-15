@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ronan\\Documents\\windowsformsc#\\funcionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFC378D-F8EA-44C6-9767-FE5E80F6ABDF}|funcionario.csproj|c:\\users\\ronan\\documents\\windowsformsc#\\funcionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFC378D-F8EA-44C6-9767-FE5E80F6ABDF}|funcionario.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFC378D-F8EA-44C6-9767-FE5E80F6ABDF}|funcionario.csproj|c:\\users\\ronan\\documents\\windowsformsc#\\funcionario\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFC378D-F8EA-44C6-9767-FE5E80F6ABDF}|funcionario.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFC378D-F8EA-44C6-9767-FE5E80F6ABDF}|funcionario.csproj|c:\\users\\ronan\\documents\\windowsformsc#\\funcionario\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFC378D-F8EA-44C6-9767-FE5E80F6ABDF}|funcionario.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFC378D-F8EA-44C6-9767-FE5E80F6ABDF}|funcionario.csproj|c:\\users\\ronan\\documents\\windowsformsc#\\funcionario\\conexaobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFC378D-F8EA-44C6-9767-FE5E80F6ABDF}|funcionario.csproj|solutionrelative:conexaobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFC378D-F8EA-44C6-9767-FE5E80F6ABDF}|funcionario.csproj|C:\\Users\\Ronan\\Documents\\windowsformsc#\\funcionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BFC378D-F8EA-44C6-9767-FE5E80F6ABDF}|funcionario.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ronan\\Documents\\windowsformsc#\\funcionario\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ronan\\Documents\\windowsformsc#\\funcionario\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAADgv6sAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:26:27.363Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Ronan\\Documents\\windowsformsc#\\funcionario\\cadastro.cs",
+              "RelativeDocumentMoniker": "cadastro.cs",
+              "ToolTip": "C:\\Users\\Ronan\\Documents\\windowsformsc#\\funcionario\\cadastro.cs",
+              "RelativeToolTip": "cadastro.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwCUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:38:06.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "conexaoBanco.cs",
+              "DocumentMoniker": "C:\\Users\\Ronan\\Documents\\windowsformsc#\\funcionario\\conexaoBanco.cs",
+              "RelativeDocumentMoniker": "conexaoBanco.cs",
+              "ToolTip": "C:\\Users\\Ronan\\Documents\\windowsformsc#\\funcionario\\conexaoBanco.cs",
+              "RelativeToolTip": "conexaoBanco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:30:52.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ronan\\Documents\\windowsformsc#\\funcionario\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ronan\\Documents\\windowsformsc#\\funcionario\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAArwDkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:36:21.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Ronan\\Documents\\windowsformsc#\\funcionario\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ronan\\Documents\\windowsformsc#\\funcionario\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:01:04.852Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
